@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-<!--
-Trying to live well
--->
+- Trying to live well
